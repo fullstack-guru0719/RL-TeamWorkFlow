@@ -1,0 +1,274 @@
+[33mcommit 5a04f4473bfe4fd54f44cb7c4295b32804250058[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 6832a84 c870ee4
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Mon Feb 13 10:42:45 2023 -0500
+
+    Merge pull request #18 from fullstack-guru0719/greenwork-1
+    
+    upload the past work projects
+
+[33mcommit c870ee445db7f25e76bbf96d19463e2c7780157a[m[33m ([m[1;31morigin/greenwork-1[m[33m)[m
+Author: GreenPlanet <greenplanet1724@gmail.com>
+Date:   Mon Feb 13 07:14:05 2023 -0800
+
+    upload the past work projects
+
+[33mcommit 6832a84c2274a3727a33ef68ec0292e490532aa2[m[33m ([m[1;31morigin/python[m[33m, [m[1;32mmain[m[33m)[m
+Author: gillhousekevin <124322921+gillhousekevin@users.noreply.github.com>
+Date:   Mon Feb 13 06:22:52 2023 -0500
+
+    Update README.md
+
+[33mcommit 4ea62d79a5fb6b73c1e2c64c768ce5e5ba5548a5[m
+Merge: c70247e 8447210
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Mon Feb 13 05:57:03 2023 -0500
+
+    Merge pull request #16 from fullstack-guru0719/harry/test-0213
+    
+    Harry/test 0213
+
+[33mcommit 844721084c0d97ef39fa44a9ca9c97d54f03d787[m[33m ([m[1;31morigin/harry/test-0213[m[33m)[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Mon Feb 13 05:36:29 2023 -0800
+
+    test:with slack
+
+[33mcommit 6b95284b8334589302dd7db0ef6e769c0aa29f14[m
+Merge: 5bb0b4d c70247e
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Mon Feb 13 05:34:57 2023 -0800
+
+    Merge branch 'main' of https://github.com/fullstack-guru0719/RL-TeamWorkFlow into #harrywork-29
+
+[33mcommit 5bb0b4d18947c958bc14e892e96bc909b52352f4[m[33m ([m[1;31morigin/#harrywork-29[m[33m)[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Wed Feb 8 21:55:32 2023 -0800
+
+    #harrywork:torchvision
+
+[33mcommit 7fe15dea8df73393531421852f82f0fa73425e3e[m[33m ([m[1;31morigin/harrywork-yolov8[m[33m)[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Mon Feb 6 08:37:33 2023 -0800
+
+    #harrywork:yolov8
+
+[33mcommit c70247e1e2d3229e96865af5a6549a568cf8fadb[m
+Merge: fd0981f 7fe15de
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Mon Feb 6 06:25:15 2023 -0500
+
+    Merge pull request #15 from fullstack-guru0719/harrywork-yolov8
+    
+    #harrywork:yolov8
+
+[33mcommit fd0981f327f011f85e536a12fa8a3dc238b627ef[m
+Merge: acf72be a53c47b
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Sat Feb 4 10:20:22 2023 -0800
+
+    Merge pull request #14 from fullstack-guru0719/guru/data-algo
+    
+    add algorithm
+
+[33mcommit a53c47b282e192725833a038e74b809e01da3109[m[33m ([m[1;31morigin/guru/data-algo[m[33m)[m
+Author: grigooryan <grigoryanmher917@gmail.com>
+Date:   Sat Feb 4 10:19:32 2023 -0800
+
+    add algorithm
+
+[33mcommit 650fe69821260e0da0fbaa08602156f46352f64a[m[33m ([m[1;31morigin/harry-objct_tracking[m[33m)[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Thu Feb 2 01:58:58 2023 -0800
+
+    #harrywork:object_tracking
+
+[33mcommit acf72be61ca381ad236051800d68ca570d5cc58d[m
+Merge: 9d50c57 fd81405
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Wed Feb 1 22:03:06 2023 -0800
+
+    Merge pull request #12 from fullstack-guru0719/guru/data-algo
+    
+    Guru/data algo
+
+[33mcommit fd8140570339e75acad27f9f7020dceaeb490694[m
+Author: grigooryan <grigoryanmher917@gmail.com>
+Date:   Wed Feb 1 22:02:23 2023 -0800
+
+    data-algo
+
+[33mcommit 0a73f8359a997bf6cf2cf9873632f2af300f7bf3[m
+Merge: 110b921 9d50c57
+Author: grigooryan <grigoryanmher917@gmail.com>
+Date:   Wed Feb 1 22:01:22 2023 -0800
+
+    Merge branch 'main' of https://github.com/fullstack-guru0719/RL-TeamWorkFlow into guru/gradient
+
+[33mcommit 9d50c57739a341b65760db13b3852db00dcc2b03[m
+Merge: 61f7792 650fe69
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Wed Feb 1 21:58:44 2023 -0800
+
+    Merge pull request #11 from fullstack-guru0719/harry-objct_tracking
+    
+    #harrywork:object_tracking
+
+[33mcommit 110b92137bfc49133c164ba88be9319c8d601033[m[33m ([m[1;31morigin/guru/gradient[m[33m)[m
+Author: grigooryan <grigoryanmher917@gmail.com>
+Date:   Wed Feb 1 05:54:54 2023 -0800
+
+    add gradient algorithm
+
+[33mcommit 36f5454066783ff0f274ef2a9555f30bbde0518d[m[33m ([m[1;31morigin/harrywork-torch[m[33m)[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Tue Jan 31 22:41:25 2023 -0800
+
+    #harryWork: pytorch
+
+[33mcommit 61f779210f4ee15d93d55bf7633d2240a10a206a[m
+Merge: 4620d25 36f5454
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Tue Jan 31 13:55:46 2023 -0800
+
+    Merge pull request #10 from fullstack-guru0719/harrywork-torch
+    
+    Harrywork torch
+
+[33mcommit 4620d2512d1b0187b0f8743a157b30ce4478843c[m
+Merge: 0d01ff1 bf49739
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Tue Jan 31 02:57:36 2023 -0800
+
+    Merge pull request #9 from fullstack-guru0719/harryWork-test
+    
+    #harryWork-test:second
+
+[33mcommit 6e5c53607e0ece97b0dab0e68ad93a18ab7b7973[m
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Mon Jan 30 20:30:33 2023 -0800
+
+    #harrywork: add python and torch
+
+[33mcommit 0d01ff12419b6daee78c3fca3550d059e7fc1c99[m
+Merge: 56dc482 d7ef78e
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Mon Jan 30 11:05:29 2023 -0800
+
+    Merge pull request #7 from fullstack-guru0719/aiCoderWork
+    
+    Ai coder work
+
+[33mcommit d7ef78e0b209d181808c60afc1ce007e7c294fcb[m
+Author: richard <satellite19900502@gmail.com>
+Date:   Mon Jan 30 12:42:25 2023 -0500
+
+    aiCoderWork: add a sum function
+
+[33mcommit 4425698cfead7bb6eae3b013645f97f20b20d6b5[m
+Author: richard <satellite19900502@gmail.com>
+Date:   Mon Jan 30 08:08:16 2023 -0500
+
+    add file
+
+[33mcommit 56dc482545554357004440031e059c85f6944adc[m
+Merge: f1b5392 7a0fda1
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Sun Jan 29 19:53:24 2023 -0800
+
+    Merge pull request #5 from fullstack-guru0719/fullstackguru/optimize-newton
+    
+    #optimze-newton:first newton
+
+[33mcommit 7a0fda1627722f5ba1c4cd5bcd69ed86799d38d9[m[33m ([m[1;31morigin/fullstackguru/optimize-newton[m[33m)[m
+Author: FullStack_guru <mousesnake9@gmail.com>
+Date:   Sun Jan 29 19:50:48 2023 -0800
+
+    #optimze-newton:first newton
+
+[33mcommit f1b53923ac6d37907aa72127ea5ba07c77b36e2b[m
+Author: richard <satellite19900502@gmail.com>
+Date:   Wed Jan 25 02:20:05 2023 -0500
+
+    Add a function
+
+[33mcommit 692cb219c29eadb5cddbfd73e9f147d5b8b05ff6[m
+Author: harry-luck <harryluck505@gmail.com>
+Date:   Thu Jan 19 22:02:26 2023 -0800
+
+    #harrywork:add12
+
+[33mcommit 62835207845e7230a08c92527d37c74b4e6fd9b9[m
+Author: richard <satellite19900502@gmail.com>
+Date:   Tue Jan 17 11:27:39 2023 -0500
+
+    #aiCoderWork:addSecondFile
+
+[33mcommit d66b3c228d664ada0333842f5da82c699d3c15c6[m
+Author: harry-luck <harryluck505@gmail.com>
+Date:   Mon Jan 16 18:52:43 2023 -0800
+
+    #harrywork:linearRegression
+
+[33mcommit 52b15fb8274f328ba8c235a31b3ce58d4ce918d5[m
+Merge: d48bb0a d66b3c2
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Mon Jan 16 09:57:20 2023 -0800
+
+    Merge pull request #4 from fullstack-guru0719/harrywork-test
+    
+    #harrywork:linearRegression
+
+[33mcommit bf49739312bb671c710b98d7926d18e8d2724943[m
+Author: harry-luck <harryluck505@gmail.com>
+Date:   Wed Jan 11 17:19:13 2023 -0800
+
+    #harryWork-test:second
+
+[33mcommit 017ea21c0bc0a56573e947bacb0258c633202edd[m
+Author: harry-luck <harryluck505@gmail.com>
+Date:   Wed Jan 11 16:52:27 2023 -0800
+
+    #harryWork:add first
+
+[33mcommit d48bb0a6ee69b23e864cf971d355dbccec46fc43[m
+Merge: e21e2d6 4798fb5
+Author: AI-coder-52-320 <122450950+AI-coder-52-320@users.noreply.github.com>
+Date:   Wed Jan 11 09:13:29 2023 -0700
+
+    Merge pull request #2 from fullstack-guru0719/aiCoderWork-mlFirst
+    
+    #aiCoderWork:add test file
+
+[33mcommit 4798fb5adec3ad849dc52fdf438ffad22a6b4ffe[m
+Author: Mitchell Zhang <satellite19900502@gmail.com>
+Date:   Wed Jan 11 11:10:15 2023 -0500
+
+    #aiCoderWork:add test file
+
+[33mcommit e21e2d6135bf451e61c1e7f57352a367c184c330[m
+Merge: bf5f3b8 017ea21
+Author: Harry505 <106252279+Harry-Luck@users.noreply.github.com>
+Date:   Wed Jan 11 08:05:59 2023 -0800
+
+    Merge pull request #1 from fullstack-guru0719/harryWork-test
+    
+    #harryWork:add first
+
+[33mcommit bf5f3b853e797d5b9b5b34b6418c8b20d37e9a39[m
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Wed Jan 11 06:12:56 2023 -0800
+
+    Update README.md
+
+[33mcommit 9340505f3fe49a909a0c719b4189aa9235f4a84f[m
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Wed Jan 11 06:07:20 2023 -0800
+
+    Update README.md
+
+[33mcommit 4164e8960db6fbe0f5a85aa8acc2b64039daa2e9[m
+Author: FullStack_guru <107710581+fullstack-guru0719@users.noreply.github.com>
+Date:   Wed Jan 11 06:05:53 2023 -0800
+
+    Initial commit
