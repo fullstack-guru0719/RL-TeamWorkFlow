@@ -10,3 +10,5 @@ const obj = {
 JSON.stringify(obj, (key, value) => (key == 'password' ? undefined : value));
 
 JSON.stringify(obj, ['id', 'username', 'email']);
+
+//????
